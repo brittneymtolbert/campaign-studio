@@ -1,0 +1,11 @@
+# Keep secrets and local files out of the repository
+.env
+.env.*
+*.key
+*.pem
+.DS_Store
+Thumbs.db
+desktop.ini
+node_modules/
+.vscode/
+.idea/
